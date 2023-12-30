@@ -3,4 +3,4 @@ DOMAIN-SUFFIX,hoyoverse.com
 
 # > Honkai:Starrail
 DOMAIN-SUFFIX,starrails.com
-AND,((GEOIP,JP), (DEST-PORT,23301))
+DEST-PORT,23301

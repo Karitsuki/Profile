@@ -1,2 +1,5 @@
 # > Mihoyo
 DOMAIN-SUFFIX,mihoyo.com
+
+# > Honkai:Starrail
+AND,((GEOIP,CN), (DEST-PORT,23301))
