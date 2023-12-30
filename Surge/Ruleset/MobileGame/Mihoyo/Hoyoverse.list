@@ -1,6 +1,9 @@
 # > Hoyoverse
 DOMAIN-SUFFIX,hoyoverse.com
 
+# > HoYoLAB
+DOMAIN-SUFFIX,hoyolab.com
+
 # > Honkai:Starrail
 DOMAIN-SUFFIX,starrails.com
 DEST-PORT,23301
