@@ -1,2 +1,7 @@
 # > Hoyoverse
 DOMAIN-SUFFIX,hoyoverse.com
+
+# > Honkai:Starrail
+DOMAIN-SUFFIX,starrails.com
+IP-CIDR,8.209.198.122/32
+IP-CIDR,47.91.31.128/32
