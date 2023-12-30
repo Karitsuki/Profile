@@ -2,4 +2,5 @@
 DOMAIN-SUFFIX,mihoyo.com
 
 # > Honkai:Starrail
+DOMAIN-SUFFIX,bhsr.com
 AND,((GEOIP,CN), (DEST-PORT,23301))
