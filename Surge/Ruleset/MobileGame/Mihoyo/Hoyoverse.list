@@ -3,6 +3,7 @@ DOMAIN-SUFFIX,hoyoverse.com
 
 # > HoYoLAB
 DOMAIN-SUFFIX,hoyolab.com
+DOMAIN,img-os-static.mihoyo.com
 
 # > Honkai:Starrail
 DOMAIN-SUFFIX,starrails.com
