@@ -1,0 +1,12 @@
+# > Resource
+DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,cloudfront.net
+
+# > Bleach Brave Souls
+AND,((PROTOCOL,UDP), (DEST-PORT,5055-5058))
+
+# > Guardian Tales
+AND,((PROTOCOL,UDP), (DEST-PORT,10200))
+
+# > Project Sekai
+AND,((PROTOCOL,UDP), (DEST-PORT,7100))
