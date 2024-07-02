@@ -1,2 +1,2 @@
 ## 散爆网络
-SunbornGame.list → DIRECT
+SunbornGame.list 优先直连
