@@ -1,2 +1,3 @@
 # > Bleach Brave Souls
 DOMAIN-KEYWORD,bleach-bravesouls
+AND,((PROTOCOL,UDP), (DEST-PORT,5055-5058))

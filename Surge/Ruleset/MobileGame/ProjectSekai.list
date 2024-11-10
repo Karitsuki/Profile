@@ -1,2 +1,3 @@
 # > Project Sekai
 DOMAIN-SUFFIX,sekai.colorfulpalette.org
+AND,((PROTOCOL,UDP), (DEST-PORT,7100))
